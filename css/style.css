@@ -1,0 +1,20 @@
+.slider {
+    background-image: url(../images/slider.jpg);
+    width: 1633px;
+    height: 150px;
+}
+.welcome {
+    float: left;
+    width: 870px;
+}
+.welcome_img {
+    float: left;
+}
+.left_column {
+    float: left;
+    width: 415px;
+}
+.right_column {
+    float: left;
+    width: 415px;
+}
