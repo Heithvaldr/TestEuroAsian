@@ -238,7 +238,7 @@ footer {
     padding-top: 28px;
     color: white;
     background: #424147;
-    height: 570px;
+    height: 478px;
 }
 .footer-column {
     padding-right: 65px;
@@ -303,7 +303,68 @@ h5 {
 #twitter_div .lifehack {
     padding-left: 0;
 }
+.social-title, .social-links {
+    vertical-align: middle;
+    display: inline-block;
+}
+.social-links {
+    padding-left: 8px;
+}
+.twitter-column {
+    width: 450px;
+}
+.contact-column {
+    width: 350px;
+    padding-left: 50px;
+}
+.info span {
+    color: #ffea00;
+}
+.info p {
+    padding-left: 17px;
+    padding-bottom: 0;
+}
+.info img,p {
+    display: inline-block;
+}
+.contact-title {
+    padding-bottom: 18px;
+}
+.e-mail {
+    padding-top: 20px;
+}
+input[type=text] {
+    background: none;
+    border: none;
+    border-bottom: #ffea00 solid 2px;
+}
+input[type=submit] {
+    background: url(../images/send-letter.png);
+    border: 0;
+    height: 29px;
+    width: 29px;
+ }
+.input {
+    vertical-align: bottom;
+}
 .down-nav {
     height: 70px;
     background: black;
+    color: white;
+}
+.down-nav nav {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+.down-nav nav a p {
+    color: white;
+}
+.copyright {
+    padding-left: 119px;
+    padding-right: 250px;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: CenturyGothic;
+    display: inline-block;
 }
