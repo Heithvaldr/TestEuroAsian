@@ -201,7 +201,7 @@ h4 {
 .third-part {
     text-align: center;
     padding-top: 70px;
-    padding-bottom: 80px;
+    padding-bottom: 30px;
 }
 .third-part .chapter-title {
     max-width: 970px;
@@ -230,4 +230,80 @@ h4 {
     font-family: CenturyGothic;
     text-transform: uppercase;
     background: #424147;
+}
+
+
+footer {
+    padding-left: 119px;
+    padding-top: 28px;
+    color: white;
+    background: #424147;
+    height: 570px;
+}
+.footer-column {
+    padding-right: 65px;
+    font-family: CenturyGothic;
+    vertical-align: text-top;
+    width: 435px;
+    display: inline-block;
+}
+.footer-column p {
+    line-height: 20px;
+    letter-spacing: 0.4px;
+    font-size: 13px;
+    padding-top: 22px;
+    padding-bottom: 30PX;
+}
+h5 {
+    font-size: 18px;
+    text-transform: capitalize;
+}
+.footer-column button {
+    font-size: 15px;
+    font-weight: bold;
+    font-family: CenturyGothic;
+    height: 37px;
+    width: 121px;
+    border: none;
+    background: black;
+    color: white;
+    text-transform: capitalize;
+    border-bottom: #ffea00 solid 2px; 
+}
+.photo-stream {
+    padding: 44px 0 20px 0;
+}
+.photos img {
+    margin: 1px;
+}
+.twiter-title {
+    padding-bottom: 22px
+}
+#twitter_div .twit {
+    padding-bottom: 14px; 
+    padding-top: 0;
+}
+.twit time {
+    padding-left: 44px;
+    font-size: 8px;
+    color: #ffea00;
+}
+.twit img {
+    padding-top: 10px;
+    padding-right: 18px;
+    float: left;
+}
+.twit a {
+    text-decoration: none;
+    color: white;
+}
+.twit span {
+    color: #ffea00;
+}
+#twitter_div .lifehack {
+    padding-left: 0;
+}
+.down-nav {
+    height: 70px;
+    background: black;
 }
